@@ -26,7 +26,7 @@ sintaxis : git checkout -b "tal"
  - una rama solo existe cuando se hace antes un commit 
  - las **_Ramas_** son diferentes versiones de mi codigo 
  - con la tecla **"Q"** se puede salir del bug del "git log"
-
+ - para subir los cambios de mi codigo se escribe **"git push"**
 
 
 
