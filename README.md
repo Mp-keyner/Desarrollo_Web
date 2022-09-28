@@ -29,5 +29,5 @@ sintaxis : git checkout -b "tal"
  - para subir los cambios de mi codigo se escribe **"git push"**
 
 
-
-
+ # titulo nuevo 
+ - hello people 
