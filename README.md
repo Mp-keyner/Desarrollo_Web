@@ -21,7 +21,8 @@ sintaxis : git checkout -b "tal"
 - ````git remote add origin```` : agregar un repositorio remoto.
 - ````git remote -v```` : es basicamnete como para verificar donde se va guargar y cargar los cambios 
 - ````git push -u origin master ```` : empuja los comandos o los envia a la nube diciendolo haci
-
+- ````git remote ```` : sintaxis :
+    git remote remote 
 # **_Dato curioso_** 
  - una rama solo existe cuando se hace antes un commit 
  - las **_Ramas_** son diferentes versiones de mi codigo 
