@@ -9,7 +9,7 @@ El Arduino Nano es un tablero pequeño, completo y fácil de usar basado en el A
 ## ¿Como se programa?
 simple la forma de programacion es identico al de un [Arduino UNO](https://es.wikipedia.org/wiki/Arduino_Uno "Arduino UNO") 
 
-**Codigo :**
+**Codigo :**giy
 ~~~
 void setup(){
     digitalWrite(13, OUTPUT);
